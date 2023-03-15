@@ -1,0 +1,16 @@
+{
+  "name": "venombot",
+  "version": "1.0.0",
+  "description": "Whatsapp bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LordTriton",
+  "license": "ISC",
+  "dependencies": {
+    "asdfjkl": "^0.0.7",
+    "string-similarity": "^4.0.4",
+    "venom-bot": "^4.3.7"
+  }
+}
